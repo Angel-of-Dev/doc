@@ -33,6 +33,7 @@ export default defineConfig({
       md.use(katex)
     }
   },
+  appearance: "force-dark",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [

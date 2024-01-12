@@ -7,6 +7,8 @@
 >
 > -- [Frank Herbert](https://en.wikipedia.org/wiki/Frank_Herbert), [Dune](https://archive.org/details/frank-herberts-dune-saga-collection-books-1-6-by-frank-herbert/mode/2up)
 
+---
+
 A sound advice given to [Paul Atreides](https://en.wikipedia.org/wiki/Paul_Atreides) in the opening act of Frank Herbert's Dune.  
 Some say that those words marked the beginning of **The Dune Coffee Company** that quickly seeded the whole planet Arrakis (known as Dune) with a network of vending machines serving the best [spice coffee](https://www.reddit.com/r/dune/comments/tcw924/i_made_as_best_i_could_dune_spice_coffee/) to the local [Fremen](https://en.wikipedia.org/wiki/Fremen) population.
 

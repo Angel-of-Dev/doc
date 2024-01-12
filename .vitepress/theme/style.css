@@ -206,3 +206,11 @@
     color: var(--vp-c-text-1);
 }
 
+.vp-doc tr:nth-child(2n) {
+    background-color: #CCBBAB;
+}
+
+.vp-doc th {
+    background-color: #BAAA9C;
+}
+
